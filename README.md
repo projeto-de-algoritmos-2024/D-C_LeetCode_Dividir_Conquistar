@@ -16,8 +16,8 @@ Este repositório tem como objetivo apresentar as soluções das questões selec
 Problemas
 | Código | Nome | Dificuldade | Vídeo |
 | ------------------ | ---------------- | ----------- | ------------------ |
-| 218 | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/description/) | Difícil | [clique aqui]() |
-| 295 | [Find Median From Data Stream](https://leetcode.com/problems/find-median-from-data-stream/description/) | Difícil | [clique aqui]() |
+| 218 | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/description/) | Difícil | [clique aqui](https://youtu.be/US9Zwts23mc) |
+| 295 | [Find Median From Data Stream](https://leetcode.com/problems/find-median-from-data-stream/description/) | Difícil | [clique aqui](https://youtu.be/z9kqkoIsvXc) |
 
 ## Screenshots
 The Skyline Problem 
