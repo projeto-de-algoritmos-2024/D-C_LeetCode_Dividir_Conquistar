@@ -13,8 +13,18 @@
 ## Sobre 
 Este repositório tem como objetivo apresentar as soluções das questões selecionadas, com o intuito de demonstrar os conhecimentos adquiridos durante as aulas.
 
+Problemas
+| Código | Nome | Dificuldade | Vídeo |
+| ------------------ | ---------------- | ----------- | ------------------ |
+| 218 | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/description/) | Difícil | [clique aqui]() |
+| 295 | [Find Median From Data Stream](https://leetcode.com/problems/find-median-from-data-stream/description/) | Difícil | [clique aqui]() |
+
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+The Skyline Problem 
+<div align="center"><img src="/218.The_Skyline_Problem/218.png" height=auto width=auto></div>
+
+Find Median From Data Stream  
+<div align="center"><img src="/295.Find_Median_from_Data_Stream/295.png" height=auto width=auto></div>
 
 ## Instalação 
 **Linguagem**: C++<br>
